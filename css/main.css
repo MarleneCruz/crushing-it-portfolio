@@ -29,12 +29,12 @@ header{
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
   height:40px;
-  padding-left: 50px;
 }
 
 .half-bar{
-  width: 820px;
+  width: 700px;
   float: left;
+  padding-left: 20px;
 }
 
 .full-width {
